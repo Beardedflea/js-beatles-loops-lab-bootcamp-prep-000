@@ -18,11 +18,10 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(elementNumber){
   var fanboy = new Array();
-  let i = 0;
   do{
     fanboy.push("I love the Beatles!");
-    i++;
-    } while (i < 15);
+    elementNumber++;
+    } while (elementNumber < 15);
   return fanboy;
 }
 
