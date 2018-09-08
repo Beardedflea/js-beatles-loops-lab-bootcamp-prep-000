@@ -21,9 +21,8 @@ function iLoveTheBeatles(elementNumber){
   let i = 0;
   do{
     fanboy.push("I love the Beatles!");
-    
-    
-    
-  }
+    i++;
+    } while (i < 15);
+  return fanboy;
 }
 
