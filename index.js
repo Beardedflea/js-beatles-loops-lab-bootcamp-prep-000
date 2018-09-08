@@ -18,8 +18,11 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(elementNumber){
   var fanboy = new Array();
+  let i = 0;
   do{
-    fanboy.push("I love the Beatles!")
+    fanboy.push("I love the Beatles!");
+    
+    
     
   }
 }
